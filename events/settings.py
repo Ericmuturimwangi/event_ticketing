@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'ticketing',
     'rest_framework',
     'rest_framework_simplejwt',
+    'purchases',
 ]
 
 REST_FRAMEWORK = {
